@@ -4,32 +4,11 @@
     <title>EYC Team Race Blog</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://reidmclaughlin.github.io/eyctr//</link>
-    <atom:link href="http://reidmclaughlin.github.io/eyctr//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 03 May 2018 13:07:25 -0400</pubDate>
-    <lastBuildDate>Thu, 03 May 2018 13:07:25 -0400</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 03 May 2018 13:23:10 -0400</pubDate>
+    <lastBuildDate>Thu, 03 May 2018 13:23:10 -0400</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
-    
-      <item>
-        <title>AYC 3-2-1 Regatta - May 20 - We need players!</title>
-        <description>&lt;p&gt;&lt;span class=&quot;image featured&quot;&gt;&lt;img src=&quot;/images/eyctr-400.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;Our first event of the season! This is a one day regatta hosted by AYC, but using the EYC boats as well.&lt;/p&gt;
-
-&lt;p&gt;This event has three formats rolled into a one day event, 3 on 3 team racing, 2 on 2 team racing, and match racing. What a great way to experience all the disciplines!&lt;/p&gt;
-
-&lt;p&gt;All you need to do is to be able to crew a j-22. we’ve got some experienced types that will be driving, we need 3 or 4 more people to round out the team.&lt;/p&gt;
-
-&lt;p&gt;Contact Logan Hearn - loghearn@gmail.com - 443.254.3671 to sign up, or ask questions.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 07 Sep 2014 10:36:23 -0400</pubDate>
-        <link>http://reidmclaughlin.github.io/eyctr//regatta/2014/09/07/duis-in-purus.html</link>
-        <guid isPermaLink="true">http://reidmclaughlin.github.io/eyctr//regatta/2014/09/07/duis-in-purus.html</guid>
-        
-        
-        <category>regatta</category>
-        
-      </item>
     
       <item>
         <title>We gotta pay to play</title>
@@ -48,10 +27,31 @@ Crew - $100&lt;/p&gt;
 
 &lt;p&gt;Click the link - EYC Watercraft Access Program - It’s quick and easy. Contact Nan Walker with any questions - waterfront@eastportyc.org&lt;/p&gt;
 </description>
-        <pubDate>Sun, 31 Aug 2014 10:36:23 -0400</pubDate>
-        <link>http://reidmclaughlin.github.io/eyctr//2014/08/31/morbi-a-semper.html</link>
-        <guid isPermaLink="true">http://reidmclaughlin.github.io/eyctr//2014/08/31/morbi-a-semper.html</guid>
+        <pubDate>Sun, 29 Apr 2018 10:36:23 -0400</pubDate>
+        <link>http://localhost:4000/2018/04/29/pay-fee.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/04/29/pay-fee.html</guid>
         
+        
+      </item>
+    
+      <item>
+        <title>AYC 3-2-1 Regatta - May 20 - We need players!</title>
+        <description>&lt;p&gt;&lt;span class=&quot;image featured&quot;&gt;&lt;img src=&quot;/images/eyctr-400.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Our first event of the season! This is a one day regatta hosted by AYC, but using the EYC boats as well.&lt;/p&gt;
+
+&lt;p&gt;This event has three formats rolled into a one day event, 3 on 3 team racing, 2 on 2 team racing, and match racing. What a great way to experience all the disciplines!&lt;/p&gt;
+
+&lt;p&gt;All you need to do is to be able to crew a j-22. we’ve got some experienced types that will be driving, we need 3 or 4 more people to round out the team.&lt;/p&gt;
+
+&lt;p&gt;Contact Logan Hearn - loghearn@gmail.com - 443.254.3671 to sign up, or ask questions.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 28 Apr 2018 10:36:23 -0400</pubDate>
+        <link>http://localhost:4000/regatta/2018/04/28/first-practice.html</link>
+        <guid isPermaLink="true">http://localhost:4000/regatta/2018/04/28/first-practice.html</guid>
+        
+        
+        <category>regatta</category>
         
       </item>
     
@@ -67,9 +67,9 @@ Crew - $100&lt;/p&gt;
 &lt;p&gt;We need RSVPs to make sure we have enough people to warrant splashing the boats.&lt;/p&gt;
 
 </description>
-        <pubDate>Sun, 31 Aug 2014 10:36:23 -0400</pubDate>
-        <link>http://reidmclaughlin.github.io/eyctr//first-post.html</link>
-        <guid isPermaLink="true">http://reidmclaughlin.github.io/eyctr//first-post.html</guid>
+        <pubDate>Sat, 21 Apr 2018 10:36:23 -0400</pubDate>
+        <link>http://localhost:4000/first-post.html</link>
+        <guid isPermaLink="true">http://localhost:4000/first-post.html</guid>
         
         
         <category>practice</category>
